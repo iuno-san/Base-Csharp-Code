@@ -1,5 +1,7 @@
 # Base C# Code Repository
 A collection of important and basic code snippets of the C# language, which have been collected and made available to help beginners and advanced programmers. This project aims to facilitate learning and recall the basic concepts of programming in the language and provide ready-made examples that can be used as templates.
+all these codes were written by user iuno-san
+
 # 🔥 List of all codes
 
 1. [Calculation of a Power](https://raw.githubusercontent.com/iuno-san/Base-Csharp-Code/main/CrucialC%23Code/Calculation%20of%20a%20Power.png)
